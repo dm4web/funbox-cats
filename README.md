@@ -7,7 +7,7 @@
 </h1>
 
 <h4 align="center">
-  Тестовое для команды FunBox
+  Тестовое для команды FunBox | <a href="http://sje.surge.sh/" target="_blank">**DEMO**</a>
 </h4>
 
 <p align="center">
